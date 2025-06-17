@@ -2,13 +2,13 @@
 
 Bienvenue sur le profil GitHub de Krma ! Nous sommes une équipe d'experts passionnés, dédiée à la **conception** et au **développement d'applications web et mobiles** pour les startups. Nous intervenons sur l'ensemble du cycle de vie produit, de l'idéation à la livraison, en assurant une qualité technique et une excellence opérationnelle irréprochables.
 
-## Qui Sommes-Nous ?
+## Qui sommes-nous ?
 
 Krma, c'est l'alliance de la **direction technique (CTO)**, du **product design**, du **product management** et du **développement**, réunis pour donner vie à vos ambitions. Une grande partie de cette équipe, forte de son expérience dans la création de produits digitaux performants, constitue aujourd'hui le cœur de Krma.
 
 Nous croyons en une approche pragmatique et orientée résultats, où la **qualité du code**, la **pérennité de l'architecture** et une **collaboration transparente** sont les piliers de chaque projet.
 
-## Nos Services
+## Nos services
 
 Nous proposons une offre complète pour accompagner les startups à chaque étape de leur croissance :
 
@@ -19,7 +19,7 @@ Nous proposons une offre complète pour accompagner les startups à chaque étap
 
 Nous nous engageons à livrer rapidement, efficacement et avec une qualité durable, en nous appuyant sur des architectures solides et des pratiques de développement modernes.
 
-## Notre Projet Phare : Timescanner
+## Notre projet phare : Timescanner
 
 Découvrez notre projet phare : [**Timescanner**](https://www.timescanner.io).
 
@@ -27,7 +27,7 @@ TimeScanner est une illustration concrète de notre savoir-faire en matière de 
 
 ---
 
-## Contactez-Nous
+## Contactez-nous
 
 🚀 Vous avez un projet ambitieux et recherchez une équipe technique fiable et expérimentée ?
 
