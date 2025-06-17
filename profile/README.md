@@ -1,4 +1,4 @@
-# Krma : l'équipe de développement dédiée aux éditeurs de SaaS B2B, qui met vos intérêts avant tout.
+# L'équipe de développement dédiée aux éditeurs de SaaS B2B, qui met vos intérêts avant tout.
 
 Bienvenue sur le profil GitHub de Krma ! Nous sommes une équipe d'experts passionnés, dédiée à la **conception** et au **développement d'applications web et mobiles** pour les startups. Nous intervenons sur l'ensemble du cycle de vie produit, de l'idéation à la livraison, en assurant une qualité technique et une excellence opérationnelle irréprochables.
 
